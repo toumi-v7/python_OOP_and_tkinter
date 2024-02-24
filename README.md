@@ -1,2 +1,2 @@
 # python_OOP_and_tkinter
-People management using tikinter and OOP
+Small project created using Python OOP and tkinter
